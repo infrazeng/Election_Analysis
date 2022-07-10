@@ -11,6 +11,8 @@ The purpose of this project was to analyze the results of a Congressional elecit
 • Denver county had by far the highest number of votes with 305,055 votes cast.
 • Charles Casper Stockham receives 85,213 votes, about 23.0% of the total, Diana DeGette receives 272,892 votes, 73.8% of the total, and Raymon Anthony Doane received 11,606 votes, 3.1% of the total.
 • Diana DeGette won the election with 272,892 votes, about 73.8% of the total vote.
+![Results](/Resources/election_results.png)
+![Analysis](/Resources/elction_analysis.png)
 
 ## Election-Audit Summary
 
