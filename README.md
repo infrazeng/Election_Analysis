@@ -4,7 +4,7 @@
 
 The purpose of this project was to analyze the results of a Congressional eleciton in Colorado by tallying up the votes from three counties: Jefferson, Arapahoe, and Denver. The Python program that we will use to analyze the results of the election will calculate the total number of votes won by each candidate, the percentage of votes won by each candidate, and who is the winner of the election. Additionally, this program will let us know which county had the highest turnout. 
 
-## Election-Audit Results
+## Audit Results
 
 • 369,711 votes were cast in this election
 • Breakdown by county: there were 38,855 votes cast in Jefferson County, about 10.5% of the total votes cast, 306,055 votes cast in Denver County, about 82.8%, and 24,801 votes cast in Arapahoe county, about 6.7% of the total votes cast
