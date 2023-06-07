@@ -2,7 +2,9 @@
 
 ## Overview of Election Audit
 
-The purpose of this project was to analyze the results of a Congressional eleciton in Colorado by tallying up the votes from three counties: Jefferson, Arapahoe, and Denver. The Python program that we will use to analyze the results of the election will calculate the total number of votes won by each candidate, the percentage of votes won by each candidate, and who is the winner of the election. Additionally, this program will let us know which county had the highest turnout. 
+The purpose of this project was to analyze the results of a Congressional election in Colorado by aggregating the votes from three counties: Jefferson, Arapahoe, and Denver. To achieve this, we utilized a Python program to analyze the election outcomes. The program calculated the total number of votes received by each candidate, determined the percentage of votes secured by each candidate, and identified the ultimate winner of the election. Furthermore, the program provided insights into the county with the highest voter turnout.
+
+By running the Python program, we were able to obtain comprehensive and accurate information about the election results. The program's calculations enabled us to determine the total votes garnered by each candidate, allowing for a clear understanding of their respective performance. Additionally, the program's analysis revealed the percentage of votes secured by each candidate, offering insights into their level of popular support. Ultimately, the program identified the election's winner based on the highest vote count.
 
 ## Audit Results
 
